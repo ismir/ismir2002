@@ -1,0 +1,80 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint">
+ <p:presentation>
+  <p:master id="18" type="main" href="master18.htm" xmlhref="master18.xml"
+   template="Nuages" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#0000A4,#FFFFFF,#4D4D4D,#B7E7FF,#0099CC,#00CC99,#FFCC00,#EE941C"/>
+    <p:colorscheme
+     colors="#00A2DC,#FFFFFF,#000066,#FFFFFF,#0079A4,#33CCCC,#FFFFCC,#FFCC00"/>
+    <p:colorscheme
+     colors="#000092,#FFFFFF,#010199,#CCFFFF,#66CCFF,#2EBDBA,#66FFFF,#CC99FF"/>
+    <p:colorscheme
+     colors="#006A67,#FFFFFF,#000000,#FFFFCC,#33CCCC,#6D6FC7,#00FFFF,#00CC66"/>
+    <p:colorscheme
+     colors="#650BB7,#FFFFFF,#4D4D4D,#FFFFFF,#FF66FF,#666699,#E9E9FF,#CCECFF"/>
+    <p:colorscheme
+     colors="#005000,#FFFFFF,#FFFFFF,#DCEAAE,#99CC00,#6F801A,#FFFFCC,#CCCC00"/>
+    <p:colorscheme
+     colors="#7979A5,#FFFFFF,#4F4F77,#F3F3FF,#5D5D8B,#66CCFF,#CCECFF,#FFFFCC"/>
+    <p:colorscheme
+     colors="#B9B9B9,#000000,#4D4D4D,#8A8472,#EDEEE2,#7FAA7E,#008000,#989400"/>
+    <p:colorscheme
+     colors="#FEA24E,#000000,#808080,#CC6600,#FBEECD,#ECD044,#E42B00,#996633"/>
+   </p:schemes>
+   <p:tag name="___PPT10" type="binary" datasize="16" dataoffset="0"/>
+  </p:master>
+  <p:master id="19" type="title" href="master19.htm" xmlhref="master19.xml"
+   layout="title_subtitle"
+   slots="centerTitle,subTitle,dateTime,footer,slideNumber">
+   <p:tag name="___PPT10" type="binary" datasize="16" dataoffset="1"/>
+  </p:master>
+  <p:slide id="1" href="slide0001.htm" masterhref="master19.htm"
+   layout="title_subtitle" slots="centerTitle,subTitle">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="2"/>
+  </p:slide>
+  <p:slide id="2" href="slide0002.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="3"/>
+  </p:slide>
+  <p:slide id="7" href="slide0007.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="4"/>
+  </p:slide>
+  <p:slide id="8" href="slide0008.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="1228" dataoffset="5"/>
+  </p:slide>
+  <p:slide id="4" href="slide0004.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="6"/>
+  </p:slide>
+  <p:slide id="9" href="slide0009.htm" xmlhref="slide0009.xml"
+   layout="column_2_rows" slots="title,object,object,object">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="7"/>
+  </p:slide>
+  <p:slide id="10" href="slide0010.htm" layout="2_columns"
+   slots="title,object,object">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="8"/>
+  </p:slide>
+  <p:slide id="12" href="slide0012.htm" layout="title_body" slots="title,table">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="9"/>
+  </p:slide>
+  <p:slide id="6" href="slide0006.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="10"/>
+  </p:slide>
+  <p:slide id="5" href="slide0005.htm" layout="title_body" slots="title,body">
+   <p:tag name="___PPT10" type="binary" datasize="105" dataoffset="11"/>
+  </p:slide>
+  <p:viewstate type="slideView" restoredleft="156" restoredtop="946"
+   hideoutlineicons="t"/>
+  <p:tag name="___PPT10" type="binary" datasize="16" dataoffset="12"/>
+  <p:font name="Arial" charset="0" type="4"/>
+  <p:font name="Wingdings" charset="2" type="6" family="2"/>
+  <p:headersfooters formatid="13" noheader="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"/>
+  <p:htmlpublishsettings browsersupport="v4"
+   href="\\zappa\E$\WWW-ISMIR2002\OpeningRemarks.html" hidespeakernote="t"
+   noloadinbrowser="t"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="63490"/>
+</xml>
